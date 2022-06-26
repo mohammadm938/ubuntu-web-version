@@ -3,6 +3,7 @@ import Calculator from "../Calculator/Calculator";
 import MainPageFireFox from "../FireFox/MainPageFireFox/MainPageFireFox";
 import Vscode from "../Vscode/Vscode";
 import { PageContext } from "../../App";
+import Weather from "../Weather/Weather";
 
 const cheakComponentForReturnIt = (page) => {
   switch (page) {
@@ -17,6 +18,9 @@ const cheakComponentForReturnIt = (page) => {
     case "vscode":
       console.log("vscode");
       return <Vscode />;
+    case "weather":
+      console.log("weather");
+      return <Weather />;
     default:
       break;
   }

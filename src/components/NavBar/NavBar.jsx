@@ -6,6 +6,7 @@ import fireFox from "../../img/firefox.png";
 import vscode from "../../img/visual-studio.png";
 import calculator from "../../img/calculator.png";
 import circleMenu from "../../img/circled-menu.png";
+import weather from "../../img/partly-cloudy-day.png";
 
 import { SetPageContext } from "../../App";
 import { useContext } from "react";
@@ -25,6 +26,10 @@ function NavBar() {
 
         <li className="w-16 p-1 hover:bg-slate-500 rounded-md cursor-pointer">
           <img src={calculator} onClick={() => setPage("calculator")} alt="" />
+        </li>
+
+        <li className="w-16 p-1 hover:bg-slate-500 rounded-md cursor-pointer">
+          <img src={weather} onClick={() => setPage("weather")} alt="" />
         </li>
       </ul>
 

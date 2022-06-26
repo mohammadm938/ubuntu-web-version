@@ -1,0 +1,58 @@
+/* .container {
+  width: 1100px;
+  height: auto;
+  margin: auto;
+  background-color: #fff;
+  border-top: 2.5px solid #485460;
+  border-bottom: 2.5px solid #485460;
+  border-radius: 5px;
+  margin-top: 20px;
+  position: relative;
+} */
+.cloud {
+  width: 104px;
+  position: absolute;
+  right: 10px;
+  top: 6px;
+  animation: normal 4s cloud1;
+  animation-iteration-count: 1;
+}
+@keyframes cloud1 {
+  from {
+    right: 122px;
+  }
+  to {
+    right: 10px;
+  }
+}
+.cloud2 {
+  right: 165px;
+  animation: normal 1s cloud2;
+  animation-iteration-count: 1;
+}
+@keyframes cloud2 {
+  from {
+    right: 179px;
+  }
+  to {
+    right: 165px;
+  }
+}
+
+.sun {
+  width: 59px;
+  position: absolute;
+  right: 107px;
+  top: 5px;
+  animation: normal 3s sun;
+  animation-iteration-count: 1;
+}
+@keyframes sun {
+  from {
+    right: 172px;
+  }
+  to {
+    right: 107px;
+  }
+}
+/* 107px */
