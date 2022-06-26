@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/ubuntu-web-version/static/css/main.0e7ce4a0.css",
-    "main.js": "/ubuntu-web-version/static/js/main.226824d9.js",
+    "main.css": "/ubuntu-web-version/static/css/main.6323d1a2.css",
+    "main.js": "/ubuntu-web-version/static/js/main.188684cd.js",
     "static/media/bg-desktop.jpg": "/ubuntu-web-version/static/media/bg-desktop.1c44f4b351fda41c0cee.jpg",
     "static/media/firefox.png": "/ubuntu-web-version/static/media/firefox.94e95efe3aeeb6a916c9.png",
+    "static/media/weather.svg": "/ubuntu-web-version/static/media/weather.098f88558545d58459d5f4f1ee189878.svg",
+    "static/media/sun.svg": "/ubuntu-web-version/static/media/sun.256b6d39dcc95410776657102eb7baf8.svg",
+    "static/media/cloud.svg": "/ubuntu-web-version/static/media/cloud.65d7ece5c55d971b3db8fbe0e0271a33.svg",
     "index.html": "/ubuntu-web-version/index.html",
-    "main.0e7ce4a0.css.map": "/ubuntu-web-version/static/css/main.0e7ce4a0.css.map",
-    "main.226824d9.js.map": "/ubuntu-web-version/static/js/main.226824d9.js.map"
+    "main.6323d1a2.css.map": "/ubuntu-web-version/static/css/main.6323d1a2.css.map",
+    "main.188684cd.js.map": "/ubuntu-web-version/static/js/main.188684cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e7ce4a0.css",
-    "static/js/main.226824d9.js"
+    "static/css/main.6323d1a2.css",
+    "static/js/main.188684cd.js"
   ]
 }
