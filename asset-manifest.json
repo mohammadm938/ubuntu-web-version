@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ubuntu-web-version/static/css/main.0e7ce4a0.css",
+    "main.js": "/ubuntu-web-version/static/js/main.226824d9.js",
+    "static/media/bg-desktop.jpg": "/ubuntu-web-version/static/media/bg-desktop.1c44f4b351fda41c0cee.jpg",
+    "static/media/firefox.png": "/ubuntu-web-version/static/media/firefox.94e95efe3aeeb6a916c9.png",
+    "index.html": "/ubuntu-web-version/index.html",
+    "main.0e7ce4a0.css.map": "/ubuntu-web-version/static/css/main.0e7ce4a0.css.map",
+    "main.226824d9.js.map": "/ubuntu-web-version/static/js/main.226824d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e7ce4a0.css",
+    "static/js/main.226824d9.js"
+  ]
+}
